@@ -66,7 +66,7 @@ Formación:
 <div>
  <img width ='32px' src ='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'> 
  <span>
-  jhonanova3@hotmail.com
+  jnova.devel@gmail.com
  </span>
  </div>
   <div>
