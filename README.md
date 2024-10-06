@@ -2,7 +2,7 @@
 
 ## ⚡ *Sobre mi* 
 > *Soy Jhonathan Nova*
->  - Después de varios años de experiencia en la industria de la gastronomía 🍽️, he decidido seguir mi verdadera pasión: el desarrollo web. Estoy comprometido a dedicarme al 100% a este campo, buscando mi primera oportunidad en el mundo de la tecnología 💡
+>  - Después de varios años de experiencia en la industria de la gastronomía, he decidido seguir mi verdadera pasión: el desarrollo web. Estoy comprometido a dedicarme al 100% a este campo, buscando mi primera oportunidad en el mundo de la tecnología 💡
 >  - Soy Desarrollador Full Stack con experiencia en la creación de aplicaciones web intuitivas, tanto en proyectos individuales como en equipo, utilizando tecnologías como JavaScript, React JS, Redux, CSS, HTML, Tailwind, Cloudinary, Postgres, Sequelize, Node JS, y Express.
 >  - Me enfoco en un aprendizaje constante de nuevas tecnologías para aplicarlas en proyectos, buscando siempre ofrecer la mejor experiencia al usuario.
 >  - Poseo habilidades en el trabajo en equipo, adaptabilidad, responsabilidad, escucha activa y creatividad.
